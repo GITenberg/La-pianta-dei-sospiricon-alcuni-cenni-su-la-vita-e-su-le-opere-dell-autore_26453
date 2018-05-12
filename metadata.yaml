@@ -1,0 +1,32 @@
+_repo: La-pianta-dei-sospiricon-alcuni-cenni-su-la-vita-e-su-le-opere-dell-autore_26453
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Cremonesi, Giovanni Battista
+    gutenberg_agent_id: '32025'
+    url: http://www.gutenberg.org/2009/agents/32025
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sacchi, Defendente
+    birthdate: 1796
+    deathdate: 1840
+    gutenberg_agent_id: '32024'
+    url: http://www.gutenberg.org/2009/agents/32024
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26453'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 19th century'
+title: "La pianta dei sospiri\r\ncon alcuni cenni su la vita e su le opere dell'autore"
+url: http://www.gutenberg.org/ebooks/26453
